@@ -7,8 +7,6 @@ h1{
 }
 #about{
 background-color: rgb(243, 112, 221);
-width: 500px;
-height: 300px;
 border-radius: 10px;
 font-size: x-large;
 color: white;
@@ -18,8 +16,6 @@ h2{
 }
 #body{
     background-color: powderblue;
-    width: 600px;
-    height: 400px;
     float: left;
     margin-left: 20px;
     border-radius: 10px;
