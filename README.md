@@ -27,8 +27,8 @@ Javascript to Output Akan names.
 
 
 ## Support and contact details
-
+You can reach me on my email calebkimutai97@gmail.com or <br> Tel:+254707160385 for any suggestion or contribution on this project. 
 ### License
- 
-
+ All Rights are in accordance with MIT terms and conditions.<br>
+Copyright @Caleb Kipngetich 2021
 
