@@ -19,7 +19,7 @@ Done on linux Ubuntu 20.0.4 software.
 Google Chrome for local running.
 Lnguages incoporated in developing are HTML,CSS,Javascript and Bootsrap CDN.
 ## Known Bugs
- 
+ The form displays female name by default and also male name.Planning to work on it in future.
 
 ## Technologies Used
 Web stucture with HTML and Bootsrap CDN and CSS for styling.
