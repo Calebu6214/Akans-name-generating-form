@@ -1,7 +1,7 @@
 # Akan Names Generator
 Form for generating Akan names depending on the specifications filled in the required areas.
 
-## By *Caleb kipngetich*
+## By **Caleb kipngetich**
 ## Description
 This web project takes user's year,month and date of birth and depending on day of the week they were born and with specified gender it outputs their Akan Names which which originates from some community in Ghana.
 ## BDD
@@ -19,7 +19,7 @@ Done on linux Ubuntu 20.0.4 software.
 Google Chrome for local running.
 Lnguages incoporated in developing are HTML,CSS,Javascript and Bootsrap CDN.
 ## Known Bugs
- 
+ The form displays female name by default and also male name.Planning to work on it in future.
 
 ## Technologies Used
 Web stucture with HTML and Bootsrap CDN and CSS for styling.
